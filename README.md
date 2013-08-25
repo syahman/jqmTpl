@@ -21,6 +21,9 @@ Use any IDE to edit your code. I prefer Netbeans 7.3. or vi :-)
 Please refer to : http://view.jquerymobile.com/1.3.1/dist/demos/ . This will be your good friend and massive 
 references to understand jqm. 
 
+## Demo Page 
+
+http://syahman.github.io/jqmTpl
 
 ## Contributors
 
